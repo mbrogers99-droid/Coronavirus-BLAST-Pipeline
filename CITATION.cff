@@ -9,7 +9,6 @@ repository-code: "https://github.com/mbrogers99-droid/Coronavirus-BLAST-Pipeline
 url: "https://github.com/mbrogers99-droid/Coronavirus-BLAST-Pipeline"
 license: MIT
 version: "1.0.0"
-date-released: 2026-11-05
 keywords:
   - coronavirus
   - BLAST
