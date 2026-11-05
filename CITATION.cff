@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using this metadata."
+type: software
+title: "Coronavirus-BLAST-Pipeline"
+abstract: "Python pipeline for coronavirus BLAST analysis, nucleotide sequence extraction, FASTA processing, and GenBank annotation matching."
+authors:
+  - name: "mbrogers99-droid"
+repository-code: "https://github.com/mbrogers99-droid/Coronavirus-BLAST-Pipeline"
+url: "https://github.com/mbrogers99-droid/Coronavirus-BLAST-Pipeline"
+license: MIT
+version: "1.0.0"
+date-released: 2026-11-05
+keywords:
+  - coronavirus
+  - BLAST
+  - bioinformatics
+  - sequence extraction
+  - GenBank
